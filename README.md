@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### ただ書いたやつを載せているだけです。
+### ただ書いたやつを載せているだけです。VScodeとの連携方法忘れた
 <!--
 **Shinachi/Shinachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
